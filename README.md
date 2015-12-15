@@ -1,4 +1,4 @@
-# MP2015
+# Persian Manuscripts in Cultrual Instituations
 <p>Originally the aim of this project was to search two cultural heritage institutions, the Walters Museum and the Brooklyn Museum, to isolate objects on a collection level - specifically manuscripts - and then distill this data on an item level.  
 A script was written in Python for each museum to pull the relevant data.  
 In each the JSON text string was converted to a Python dictionary.  In working with the data, my particular interest was in the percentage of Persian manuscripts in the both museum’s repositories.  
