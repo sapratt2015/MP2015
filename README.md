@@ -1,9 +1,9 @@
 # Persian Manuscripts in Cultural Institutions
 <p>Originally the aim of this project was to search two cultural heritage institutions, the Walters Museum and the Brooklyn Museum, to isolate objects on a collection level - specifically manuscripts - and then distill this data on an item level.  
-A script was written in Python for each museum to pull the relevant data.  
-In each the JSON text string was converted to a Python dictionary.  Initially, when working with the data, my particular interest was in the percentage of Persian manuscripts in the both museum’s repositories.  
+A script was written in Python for each museum to pull the relevant data.  The files are BKM.py and WaltersTest1.py.
+<p>In each the JSON text string was converted to a Python dictionary.  Initially, when working with the data, my particular interest was in the percentage of Persian manuscripts in the both museum’s repositories.  
 Both Walters Museum and the Brooklyn Museum APIs provide access to their digital records of art.  After this data was gathered, the next step was to write a counter in the script to help count how many total manuscripts there are in the collection, and how many of these are Persian.  For users who are interested in other search quieries in these museums, the code for both museums can be modified by changing keywords to search through either institution's collections. If one wants to search for French manuscripts, as an example, this can be easily done by replacing the existing keywords "Perisan" and "Iranian" and inserting the desired keyword. 
-The files are BKM.py and WaltersTest1.py.   </p>
+</p>
 
 
 <p>The resulting information can be viewed on the corresponding graphs. </p>
