@@ -14,11 +14,10 @@ Both Walters Museum and the Brooklyn Museum APIs provide access to their digital
 <p>Two points to note: 1. Each timeline is made up of a random sampling of objects from the respective collections to represent the holdings for each institution. 
 2.  Due to the artifactual classification of the manuscripts metadata regarding contributors - poets, caligraphers, and so on- was not available for a few objects.   </p> 
 <p>Graphs: </p>
-<p>Data on Manuscripts from Cultural Institutions 
-Of interest in my search was the percentage of Persian manuscripts that existed in the
+<p> Of interest in my search was the percentage of Persian manuscripts that existed in the
 overall collection of the Brooklyn Museum and the Walters Museum, respectively.
 Percentages were calculated from data obtained from my python codes for each museum.
 While the Walters Museum has a much larger manuscript collection than the Brooklyn
 Museum, and the former even has an Islamic Manuscript section, the percentage of Persian
 Manuscripts was nearly the same for both institutions. </p>
-
+<p>Data on Manuscripts from Cultural Institutions </p>
